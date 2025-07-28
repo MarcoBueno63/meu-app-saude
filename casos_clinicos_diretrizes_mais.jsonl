@@ -1,0 +1,42 @@
+[
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Homem, 58 anos, diabético, apresenta dor torácica atípica, sudorese e dispneia. ECG sem alterações, troponina discretamente elevada. Qual a conduta inicial?",
+    "completion": "Síndrome coronariana aguda sem supradesnivelamento do ST. Monitorização, AAS, clopidogrel, anticoagulação, betabloqueador e avaliação para estratificação de risco."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Mulher, 25 anos, com febre, dor lombar, disúria e urina turva. Toque lombar doloroso. Qual o diagnóstico e tratamento?",
+    "completion": "Pielonefrite aguda. Iniciar antibiótico venoso (ceftriaxona ou ciprofloxacino) e hidratação."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Criança, 7 anos, com febre, dor de garganta, exsudato amigdaliano e adenomegalia cervical. Qual o diagnóstico e conduta?",
+    "completion": "Faringoamigdalite bacteriana. Prescrever antibiótico (penicilina benzatina ou amoxicilina)."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Homem, 45 anos, etilista, com dor abdominal em hipocôndrio direito, icterícia e febre. USG mostra vesícula com cálculos e vias biliares dilatadas. Qual o diagnóstico e conduta?",
+    "completion": "Colangite aguda. Internação, antibiótico venoso e avaliação para CPRE."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Mulher, 60 anos, com dispneia súbita, dor torácica pleurítica e hemoptise após cirurgia recente. Qual o diagnóstico provável e conduta?",
+    "completion": "Embolia pulmonar. Solicitar angioTC de tórax e iniciar anticoagulação."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Homem, 30 anos, com febre, dor testicular, edema escrotal e disúria. Sinal de Prehn positivo. Qual o diagnóstico e tratamento?",
+    "completion": "Epididimite. Iniciar antibiótico (ciprofloxacino ou doxiciclina)."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Criança, 3 anos, com estridor, tosse "de cachorro" e febre. Qual o diagnóstico provável e conduta?",
+    "completion": "Laringotraqueíte viral (crupe). Nebulização com adrenalina e corticoide oral."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Mulher, 35 anos, com dor lombar, febre e disúria. Urina com piúria e bacteriúria. Qual o diagnóstico e tratamento?",
+    "completion": "Pielonefrite aguda. Iniciar antibiótico venoso (ciprofloxacino ou ceftriaxona)."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Homem, 70 anos, com confusão mental, desidratação e hipernatremia. Qual a principal causa e conduta inicial?",
+    "completion": "Desidratação por baixa ingestão hídrica. Reposição venosa lenta de água."
+  },
+  {
+    "prompt": "Responda de forma direta, clínica, fundamentada em diretrizes médicas oficiais e literatura científica reconhecida (SBM, OMS, UpToDate, PubMed, etc.). Mulher, 29 anos, com dor e calor em panturrilha após imobilização. USG Doppler mostra trombo venoso profundo. Qual o tratamento?",
+    "completion": "Trombose venosa profunda. Iniciar anticoagulação (heparina/varfarina)."
+  }
+]
